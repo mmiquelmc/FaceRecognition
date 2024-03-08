@@ -41,4 +41,4 @@ pip install face_recognition
 ## Acknowledgements
 
 - coded following the tutorial by [Indently]
-- [link](https://www.youtube.com/watch?v=tl2eEBFEHqM&ab_channel=Indently)
+- [Video link](https://www.youtube.com/watch?v=tl2eEBFEHqM&ab_channel=Indently)
