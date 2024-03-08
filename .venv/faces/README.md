@@ -1,0 +1,1 @@
+Add in this directory the images that you want to recognise
